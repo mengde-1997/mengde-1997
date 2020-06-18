@@ -1,48 +1,43 @@
-<div>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpeg" width="100%">
-    </td>
-  </tr>
-</table>
-</div>
-
+---
+layout: default
 ---
 
-张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+# Welcome to CiH @ FDU ![faet](./assets/img/faetlog.png)
 
----
+The CiH lab is from [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
+Our objective is to develop intelligent hardware, from chips to systems, for emerging applications.
+Currently, we target efficient circuits and system designs for smart sensors, intelligent robots and agile AI/analog deployment on VLSI.
+A brief chinese introduction can be found via [FAET faculty website](http://faet.fudan.edu.cn/8b/bb/c13533a166843/page.htm).
 
-### 最新消息
-1. 消息1×××
 
-### 研究方向
-- 文本挖掘
-- 知识图谱
 
-### 荣誉奖励
-- 奖学金
-- 荣誉称号
-- 比赛获奖
 
-### 项目研究
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+## News
+* _02/11/2020_, We open source an unofficial source code ([link here](https://github.com/zhutmost/lsq-net)) on low-bitwidth quantization schemem for DNNs ([LSQ @ ICLR2020](https://arxiv.org/abs/1902.08153)). It achieves the same FP32 accurracy on ResNet with 3b activation/weight quantization. (Benchmark: ImageNet)
+* _11/12/2019_, Chixiao co-authored paper "XNORAM: A Binary CiM Architecture with Flexbile Data Flow Mappying" is accepted by AICAS 2020.
+* _08/18/2019_, Chixiao's proposal: Sensing-Computution-Memory-in-one Circuits and Systems design is approved and sponsored by NSFC (国家自然科学基金-面上项目).
 
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+
+
+[More](./news.md)
+
+## Publication
+
+[Selected Publication List](./pub.md)
+
+## Teaching
+
+
+[AI-Core and RISC Architecture @ 2020](https://elearning.fudan.edu.cn/courses/26051)
+
+[Professional English @ 2019](./course/peng.md)
+
+## Positions
+
+We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
+
+Feel free to contact me via: cxchen@fudan.edu.cn  
+
+[Learn More about Chixiao Chen](./cxchen.md)
+
+
