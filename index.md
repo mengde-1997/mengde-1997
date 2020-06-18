@@ -6,7 +6,7 @@ layout: default
 
 I'm MENG DE and a Msc student of HongKong University majored in Electrical and Electronic Engineering now.
 My research interests include analog&digital IC design,smart sensors and computer architecture（especially AI core).
-And I am looking for a RA/phd position in these fields.
+And I am looking for a RA/phd position now.
 
 
 
@@ -14,14 +14,20 @@ And I am looking for a RA/phd position in these fields.
 
 
 
-## Education Background
-* _02/11/2020_, We open source an unofficial source code ([link here](https://github.com/zhutmost/lsq-net)) on low-bitwidth quantization schemem for DNNs ([LSQ @ ICLR2020](https://arxiv.org/abs/1902.08153)). It achieves the same FP32 accurracy on ResNet with 3b activation/weight quantization. (Benchmark: ImageNet)
-* _11/12/2019_, Chixiao co-authored paper "XNORAM: A Binary CiM Architecture with Flexbile Data Flow Mappying" is accepted by AICAS 2020.
-* _08/18/2019_, Chixiao's proposal: Sensing-Computution-Memory-in-one Circuits and Systems design is approved and sponsored by NSFC (国家自然科学基金-面上项目).
+## Educational Background
+* 09/2015-06/2019  Nanjing Normal University(211)<br />
+  Major:Electrical and Electronic Engineering   Bachelor's Degree<br />
+  GPA: 4.11/5.O    Rank: 1/93<br />
+  Dissertation: Human Activity Recognition Based on Convolutional Neural Network<br />
+  Instructor: Dr.Lei Zhang<br />
+  National Scholarship Owner in 2018(Certificate Number:2018 48128)<br />
+  Advanced Individual in Scientific Research and Innovation of NNU in 2018<br />
+  Excellent Graduates of NNU in 2019
+* 09/2019-06/2021 Hong Kong University<br />
+  Major:Electrical and Electronic Engineering   Master's Degree<br />
+  
 
 
-
-[More](./news.md)
 
 ## Publication
 
