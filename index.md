@@ -11,7 +11,7 @@ And I am looking for a RA/phd position now.
 
 ## Educational Background
 * 09/2015-06/2019  Nanjing Normal University(211)<br />
-  Major:Electrical and Electronic Engineering   Bachelor's Degree<br />
+  Major:Electrical and Electronic Engineering                          Bachelor's Degree<br />
   GPA: 4.11/5.0    Rank: 1/93<br />
   Dissertation: Human Activity Recognition Based on Convolutional Neural Network<br />
   Instructor: Dr.Lei Zhang<br />
@@ -19,10 +19,10 @@ And I am looking for a RA/phd position now.
   Advanced Individual in Scientific Research and Innovation of NNU in 2018<br />
   Excellent Graduates of NNU in 2019
 * 09/2019-06/2021 Hong Kong University(top 50)<br />
-  Major:Electrical and Electronic Engineering   Master's Degree<br />
+  Major:Electrical and Electronic Engineering                          Master's Degree<br />
  
 ## Research Experience
-* 05/2016    9th national"Certification Cup" mathematical modeling contest<br />
+* 05/2016    9th National"Certification Cup" Mathematical Modeling Contest<br />
   Won the third prize<br />
 * 06/2017    Electronic Design Competition of Nanjing Normal University<br />
   Won the first prize<br />
