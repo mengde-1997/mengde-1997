@@ -9,11 +9,6 @@ My research interests include analog&digital IC design,smart sensors and compute
 And I am looking for a RA/phd position now.
 
 
-
-
-
-
-
 ## Educational Background
 * 09/2015-06/2019  Nanjing Normal University(211)<br />
   Major:Electrical and Electronic Engineering   Bachelor's Degree<br />
@@ -25,27 +20,27 @@ And I am looking for a RA/phd position now.
   Excellent Graduates of NNU in 2019
 * 09/2019-06/2021 Hong Kong University(top 50)<br />
   Major:Electrical and Electronic Engineering   Master's Degree<br />
-  
+ 
+## Research Experience
+* 05/2016    9th national"Certification Cup" mathematical modeling contest<br />
+  Won the third prize<br />
+* 06/2017    Electronic Design Competition of Nanjing Normal University<br />
+  Won the first prize<br />
+* 09/2017    National College Student Mathematical Modeling Contest<br />
+  Won the second prize<br />  
+* 2017-2018  Study on Automatic Shoe Washing Machine based on 51 Single Chip Microcomputer<br />
+  Provincial College Students Innovation and Entrepreneurship Project<br />
+  Role:leader<br />
+* 2018-2019  Publish an Conference Paper(EI)<br />
+  Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
+
+## Language & Skills
+* IELTS：6.5<br />
+* CET-6：560<br />
+* Programming: Verilog C Python Matlab<br />
 
 
 
-## Publication
 
-[Selected Publication List](./pub.md)
-
-## Teaching
-
-
-[AI-Core and RISC Architecture @ 2020](https://elearning.fudan.edu.cn/courses/26051)
-
-[Professional English @ 2019](./course/peng.md)
-
-## Positions
-
-We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
-
-Feel free to contact me via: cxchen@fudan.edu.cn  
-
-[Learn More about Chixiao Chen](./cxchen.md)
 
 
