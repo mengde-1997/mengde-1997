@@ -5,8 +5,7 @@ layout: default
 # Welcome to My Homepage !
 
 I'm MENG DE and a Msc student of HongKong University majored in Electrical and Electronic Engineering now.
-My research interests include analog&digital IC design,smart sensors and computer architecture（especially AI core).
-And I am looking for a RA/phd position now.
+My research interests include analog&digital IC design,smart sensors,and computer architecture（especially AI core).
 
 
 ## Educational Background
@@ -35,11 +34,13 @@ And I am looking for a RA/phd position now.
   Role:leader<br />
 * 2018-2019  Publish an Conference Paper(EI)<br />
   Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
-
+* 2019-2020 Attend an online course "LuKe Verification" and finished its v0-v2 part<br />
+  Master the basic skills to be an IC Verification Engineer<br />
 ## Language & Skills
 * IELTS：6.5<br />
 * CET-6：560<br />
-* Programming: Verilog C Python Matlab<br />
+* UVM(Universial Verification Methodology)<br />
+* Programming: Systemverilog, Verilog, C, Python, Matlab<br />
 
 
 
