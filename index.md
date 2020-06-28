@@ -36,6 +36,8 @@ My research interests include analog&digital IC design,smart sensors,and compute
   Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
 * 2019-2020 Attend an online course "LuKe Verification" and finished its v0-v2 part<br />
   Master the basic skills to be an IC Verification Engineer<br />
+  
+  
 ## Language & Skills
 * IELTS：6.5<br />
 * CET-6：560<br />
