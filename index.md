@@ -5,7 +5,7 @@ layout: default
 # Welcome to My Homepage !
 
 I'm MENG DE and a Msc student of HongKong University majored in Electrical and Electronic Engineering now.
-My research interests include analog&digital IC design,smart sensors,and computer architecture（especially AI core).
+My research interests include analog&digital IC design,IC Verification, smart sensors and computer architecture（especially AI core).
 
 
 ## Educational Background
