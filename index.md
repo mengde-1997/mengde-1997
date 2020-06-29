@@ -45,6 +45,9 @@ My research interests include analog&digital IC design,IC Verification, smart se
 * Programming: Systemverilog, Verilog, C, Python, Matlab<br />
 
 
+## Core Courses
+
+[Core courses taken at NNU and HKU](./cxchen.md)
 
 
 
