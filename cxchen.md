@@ -7,7 +7,7 @@ layout: default
 * C Programming Language
 * Visual Basic Programming Language
 * Principle of Circuits
-* Analogy Electronics
+* Analogy Electronics Circuits
 * Digital Electronic Circuits
 * The Principle of Single Chip Computer and Its Interface
 * Analogue Electronics and Instrumentation
