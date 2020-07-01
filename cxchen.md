@@ -16,6 +16,7 @@ layout: default
 
 ## At HKU
 * ELEC 6036 High Performance Computer Architecture
+* ELEC 6027 Integrated circuit systems design
 * ELEC 6604 Neural networks, fuzzy systems and genetic algorithms
 * ELEC 6008 Pattern recognition and machine learning
 * IELM 7016 Engineering economics and finance
