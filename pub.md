@@ -2,31 +2,53 @@
 layout: default
 ---
 
-# Publication
-
-## Deep Learning Processor
-
-1. **C. Chen**, X. Liu, H. Peng, H. Ding and C. -. Richard Shi, "iFPNA: A Flexible and Efficient Deep Learning Processor in 28-nm CMOS Using a Domain-Specific Instruction Set and Reconfigurable Fabric," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 9, no. 2, pp. 346-357, June 2019.
-1. **C. Chen**, et al., "iFPNA: A Flexible and Efficient Deep Neural Network Accelerator with a Programmable Data Flow Engine in 28nm CMOS," ESSCIRC 2018 - IEEE 44th European Solid State Circuits Conference (ESSCIRC), Dresden, 2018, pp. 170-173.
-1. **C. Chen**, et al., "OCEAN: An On-Chip Incremental-Learning Enhanced Artificial Neural Network Processor With Multiple Gated-Recurrent-Unit Accelerators," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 8, no. 3, pp. 519-530, Sept. 2018.
-1. **C. Chen**, et al., "OCEAN: An on-chip incremental-learning enhanced processor with gated recurrent neural network accelerators," ESSCIRC 2017 - 43rd IEEE European Solid State Circuits Conference, Leuven, 2017, pp. 259-262.
-
-## Analog and Mixed Signal Design
-
-1. T. Zhang, Y. Cao, S. Zhang, **C. Chen**, F. Ye and J. Ren, "Machine Learning Based Prior-Knowledge-Free Calibration for Split Pipelined-SAR ADCs with Open-Loop Amplifiers Achieving 93.7-dB SFDR",  ESSCIRC 2019, Krakow pp.189-192. (**speaker**)
-1. A. Wang, **C. Chen**, C. Liu and C. R. Shi, "A 9-bit Resistor-Based Highly-Digital Temperature Sensor with a SAR-Quantization Embedded Differential Low-Pass Filter in 65nm CMOS with a 2.5μs Conversion Time," in IEEE Sensors Journal.
-1. A. Wang, **C. Chen** and C. R. Shi, "A 9-bit Resistor-Based All-Digital Temperature Sensor with a SAR-Quantization Embedded Differential Low-Pass Filter in 65nm CMOS Consuming 57pJ with a 2.5 $\mu$s Conversion Time", Custom Integrated Circuit Conference (CICC 2019), Austin, TX, April 2019. 
-1. A. Wang, **C. Chen** and C. R. Shi, "Design and Analysis of an Always-ON Input-Biased pA-Current Sub-nW mV-Threshold Hysteretic Comparator for Near-Zero Energy Sensing," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 64, no. 9, pp. 2284-2294, Sept. 2017.
-1. **C. Chen**, et al., "An ARMA-Model-Based NTF Estimation on Continuous-Time$\Delta\Sigma$Modulators," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 62, no. 8, pp. 721-725, Aug. 2015.
-1. **C. Chen**, et al., "A low-offset calibration-free comparator with a mismatch-suppressed dynamic preamplifier," 2014 IEEE International Symposium on Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 2361-2364.
-1. **C. Chen**, et al., "An 8-bit 100-MS/s Digital-to-Skew Converter with 200-ps range for time-interleaved sampling," 2012 IEEE 55th International Midwest Symposium on Circuits and Systems (MWSCAS), Boise, ID, 2012, pp. 1100-1103.
-1. B. Yu, **C. Chen**, et al., "A 14-bit 200-MS/s time-interleaved ADC with sample-time error detection and cancelation," IEEE Asian Solid-State Circuits Conference 2011, Jeju, 2011, pp. 349-352.
+# 欢迎来到我的主页 !   
+我叫孟德，目前为香港大学电子工程专业研究生在读。
+我的研究兴趣包括数字集成电路设计与验证、人工智能算法、智能传感器和计算机体系结构（尤其是人工智能处理器）。
 
 
-## Application Driven Hardware/Software Codesign
+## 教育背景
+* 09/2015-06/2019  南京师范大学(211)<br />
+  学士<br />
+  专业：电子工程<br />
+  GPA: 4.11/5.0    排名: 1/93<br />
+  毕业论文: 基于卷积神经网络的人体姿态识别<br />
+  指导老师: 张雷<br />
+  2018年获得国家奖学金(证书编号:2018 48128)<br />
+  2018年获南京师范大学科研创新先进个人称号<br />
+  2019年被评为南京师范大学优秀毕业生<br />
+* 09/2019-06/2021 香港大学(top 50)<br />
+  硕士<br />
+  专业：电气与电子工程<br />
+  累积 GPA: 4.0/4.3<br />
+  毕业论文: 改进PSO算法在微电网储能优化配置中的应用 <br />
+  指导老师: 侯云鹤<br />
+  
+## 研究经历
+* 05/2016    第9届全国大学生数学建模“挑战杯”<br />
+  获三等奖<br />
+* 06/2017    南京师范大学电子设计竞赛<br />
+  获一等奖<br />
+* 09/2017    全国大学生数学建模竞赛<br />
+  获二等奖<br />  
+* 2017-2018  基于51单片机的多功能自动洗鞋机的研究<br />
+  省级大学生创新训练项目<br />
+  项目主持人<br />
+* 2018-2019  发表一篇EI论文<br />
+  Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
+* 2019-2020 参加《路科验证》ic验证培训课程，完成v0-v2<br />
+  能够独立搭建验证平台，掌握成为ic验证工程师基本技能<br />
+  
+  
+## 语言 & 技能
+* 雅思：6.5<br />
+* 六级：560<br />
+* UVM(Universial Verification Methodology)<br />
+* Programming: Systemverilog, Verilog, C, Python, Matlab<br />
 
-1. **C. Chen**, et al., "Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), San Francisco, CA, 2018, pp. 1-6.
-1. S. Liu, H. Zhu, **C. Chen**, L. Zhang and C. -J. Richard Shi, "XNORAM: An Efficient Computing-in-Memory Architecture for Binary Convolutional Neural Networks with Flexible Dataflow Mapping," 2020 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), Genova, Italy, 2020, pp. 21-25.
 
-[Back to CiH Home](./)
+
+
+
+
 
