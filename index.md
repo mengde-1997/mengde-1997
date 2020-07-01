@@ -21,7 +21,10 @@ My research interests include analog&digital IC design,IC Verification, smart se
 * 09/2019-06/2021 Hong Kong University(top 50)<br />
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br />
- 
+  Cumulative GPA: 4.0/4.3<br />
+  Dissertation: Application of an improved PSO algorithm in the Optimal Configuration of Smart Grid <br />
+  Instructor: Dr.Y.Hou<br />
+  
 ## Research Experience
 * 05/2016    9th National"Certification Cup" Mathematical Modeling Contest<br />
   Won the third prize<br />
