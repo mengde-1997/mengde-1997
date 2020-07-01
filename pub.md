@@ -46,7 +46,27 @@ layout: default
 * UVM(Universial Verification Methodology)<br />
 * Programming: Systemverilog, Verilog, C, Python, Matlab<br />
 
+## 核心课程
+At NNU<br />
+* 计算机技术
+* C语言程序设计
+* 电路原理
+* 模拟电路
+* 数字电路
+* 单片机接口与原理
+* 模拟电子与仪器
+* 编程与数字系统
+* 数学建模
 
+At HKU<br />
+* ELEC 6036 高性能计算机组成原理
+* ELEC 6027 集成电路设计
+* ELEC 6604 神经网络、模糊系统及其算法
+* ELEC 6008 模式识别与机器学习
+* IELM 7016 工程经济学
+
+
+[返回主页](./)
 
 
 
