@@ -11,7 +11,7 @@ layout: default
 * Digital Electronic Circuits
 * The Principle of Single Chip Computer and Its Interface
 * Analogue Electronics and Instrumentation
-* Programming and Digital Systems
+* Verilog Programming and Digital Systems
 * Mathematical Modeling
 
 ## At HKU
