@@ -22,8 +22,8 @@ My research interests include analog&digital IC design,IC Verification, smart se
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br />
   Cumulative GPA: 4.0/4.3<br />
-  Dissertation: Application of an improved PSO algorithm in the Optimal Configuration of Smart Grid <br />
-  Instructor: Dr.Y.Hou<br />
+  Dissertation:  <br />
+  Instructor:  <br />
   
 ## Research Experience
 * 05/2016    9th National"Certification Cup" Mathematical Modeling Contest<br />
