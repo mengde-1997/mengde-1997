@@ -4,12 +4,11 @@ layout: default
 
 # 欢迎来到我的主页 !   
 我叫孟德，目前为香港大学电子工程专业研究生在读。
-我的研究兴趣包括数字集成电路设计与验证、人工智能算法、智能传感器和计算机体系结构（尤其是人工智能处理器）。
+我的研究兴趣主要包括集成电路设计与验证、智能机器人硬件与算法。
 
 
 ## 教育背景
-* 09/2015-06/2019  南京师范大学(211)<br />
-  学士<br />
+* 09/2015-06/2019  南京师范大学(211) 学士<br />
   专业：电气与电子工程<br />
   GPA: 4.11/5.0    排名: 1/93<br />
   毕业论文: 基于卷积神经网络的人体姿态识别<br />
@@ -17,8 +16,7 @@ layout: default
   2018年获得国家奖学金(证书编号:2018 48128)<br />
   2018年获南京师范大学科研创新先进个人称号<br />
   2019年被评为南京师范大学优秀毕业生<br />
-* 09/2019-06/2021 香港大学(top 50)<br />
-  硕士<br />
+* 09/2019-06/2021 香港大学(top 50)  硕士<br />
   专业：电气与电子工程<br />
   累积 GPA: 4.0/4.3<br />
   毕业论文:  <br />
@@ -36,15 +34,13 @@ layout: default
   项目主持人<br />
 * 2018-2019  发表一篇EI论文<br />
   Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
-* 2019-2020 参加《路科验证》ic验证培训课程，完成v0-v2<br />
-  能够独立搭建验证平台，掌握成为ic验证工程师基本技能<br />
-  
-  
+ 
 ## 语言 & 技能
 * 雅思：6.5<br />
 * 六级：560<br />
-* UVM(Universial Verification Methodology)<br />
-* Programming: Systemverilog, Verilog, C, Python, Matlab<br />
+* UVM(<br />
+* 基本的Linux&Unix、Cshell和VIM知识
+* Programming: Systemverilog, Verilog, C, Python, Matlab并正在自学perl和tcl脚本语言<br />
 
 ## 核心课程
 At NNU<br />
