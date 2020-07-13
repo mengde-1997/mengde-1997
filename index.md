@@ -5,7 +5,7 @@ layout: default
 # Welcome to My Homepage !   [中文](./pub.md)
 
 I'm MENG DE and a Msc student of HongKong University majored in Electrical and Electronic Engineering now.
-My research interests mainly include analog&digital IC design and Verification, intelligent robots and AI core.
+My research interests mainly include analog&digital IC design and verification, intelligent robots and AI core.
 
 ## Educational Background
 * 09/2015-06/2019  Nanjing Normal University(211)<br />
