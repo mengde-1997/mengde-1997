@@ -36,8 +36,8 @@ My research interests mainly include analog&digital IC design and verification, 
   Role:leader<br />
 * 2018-2019  Publish an Conference Paper(EI)<br />
   Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
-* 2019-2020 Attend an online course "LuKe Verification" and finished its v0-v2 part<br />
-  Master the basic skills to be an IC Verification Engineer<br />
+* 2019-2020 Attend an online course "LuKe IC Verification" <br />
+ 
 
 ## On-going Project 
 
