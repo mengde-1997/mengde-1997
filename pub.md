@@ -38,7 +38,6 @@ layout: default
 ## 语言 & 技能
 * 雅思：6.5<br />
 * 六级：560<br />
-* UVM(<br />
 * 基本的Linux&Unix、Cshell和VIM知识
 * Programming: Systemverilog, Verilog, C, Python, Matlab并正在自学perl和tcl脚本语言<br />
 
