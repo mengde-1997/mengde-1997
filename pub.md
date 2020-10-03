@@ -4,7 +4,7 @@ layout: default
 
 # 欢迎来到我的主页 !   
 我叫孟德，目前为香港大学电子工程专业研究生在读。
-我的研究兴趣主要包括集成电路设计与验证、智能机器人硬件与算法。
+我的研究兴趣主要包括集成电路设计、智能硬件与系统设计。
 
 
 ## 教育背景
@@ -32,14 +32,15 @@ layout: default
 * 2017-2018  基于51单片机的多功能自动洗鞋机的研究<br />
   省级大学生创新训练项目<br />
   项目主持人<br />
-* 2018-2019  发表一篇EI论文<br />
-  Collaborative Filtering Algorithm Based on Trust Similarity(IEEE ISBN: 978-1-5386-6394-3)<br />
+* 2020.06-至今 复旦大学Cihlab交换学习
+  参与基于pynq开发板的深度学习加速器设计
+  
  
 ## 语言 & 技能
 * 雅思：6.5<br />
 * 六级：560<br />
-* 基本的Linux&Unix、Cshell和VIM知识
-* Programming: Systemverilog, Verilog, C, Python, Matlab并正在自学perl和tcl脚本语言<br />
+* 基本的Linux、shell
+* Programming:  Verilog, C, Python, Matlab<br />
 
 ## 核心课程
 At NNU<br />
