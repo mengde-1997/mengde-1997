@@ -35,13 +35,14 @@ My research interests mainly include digital IC design, intelligent hardware and
   Provincial College Students Innovation and Entrepreneurship Project<br />
   Role:leader<br />
 * 2020.06-now  as an exchange student at Cihlab of Fudan University<br />
-  Join in the project of designing an fpga based AI accelerator
+  Join in the project of designing a fpga-based AI accelerator
  
 
  
 
 ## On-going Project 
 
+  Matrix-vertor multiplication accelerator based on PYNQ Z2 board.(2020.06 - now)
 
 
 ## Language & Skills
