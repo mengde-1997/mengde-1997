@@ -5,7 +5,7 @@ layout: default
 # Welcome to My Homepage !   [中文](./pub.md)
 
 I'm MENG DE and a master student of HongKong University majored in Electrical and Electronic Engineering.
-My research interests mainly include digital IC design,FPGA,smart sensors and their application in AI and Biological.
+My research interests mainly include digital IC design,FPGA,smart sensors and their AI and Biological application.
 
 ## Educational Background
 * 09/2015-06/2019  Nanjing Normal University(211)<br />
@@ -36,18 +36,18 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 * 2018/12 《Collaborative Filtering Algorithm Based on Trusted Similarity》accepted by ICSIP<br />
 * 2019/09-2020/06  Study on optimization algorithm at HongKong University<br />
 * 2020/06-now  Serve as an exchange student at Cihlab of Fudan University<br />
-  Join in the project of designing an AI accelerator based on PYNQ-96
+  Join in the project of designing an AI accelerator based on PYNQ-96<br />
  
 ## Project Experience 
 
-  Matrix-vertor multiplication accelerator based on PYNQ-96 board.(2020.06 - now)
-  More information at [https://github.com/mengde-1997/MVP](https://github.com/mengde-1997/MVP)
+  Matrix-Vertor Multiplication Accelerator based on PYNQ-96 Board.<br />
+  More information at [https://github.com/mengde-1997/MVP](https://github.com/mengde-1997/MVP)<br />
 
 ## Language & Skills
 
 * IELTS:6.5<br />
 * CET-6:560<br />
-* Basic knowledge of Linux&unix,Git,Tex,Vivado,Makedown 
+* Basic knowledge of Linux&unix,Git,Tex,Vivado,Makedown<br />
 * Programming:Python,Verilog&Systemverilog,C,Matlab<br />
 
 ## Core Courses
