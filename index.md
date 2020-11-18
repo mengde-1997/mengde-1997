@@ -20,8 +20,8 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 * 09/2019-06/2021 Hong Kong University(top 50)<br />
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br /> 
-  Dissertation: AI-CNN SoC IC Design <br />
-  Project: Dr.David Ng   <br />
+  Dissertation: Research on Hybrid Energy Storage of Photovoltaic Microgrid Based on Battery and Supercapacitor <br />
+  Project: AI-CNN Accelerator Design based on PYNQ board(finished during the exchange at Fudan University)<br />
   
 ## Research Experience
 * 2016/05    9th National"Certification Cup" Mathematical Modeling Contest<br />
@@ -41,7 +41,7 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 ## Project Experience 
 
   Matrix-vertor multiplication accelerator based on PYNQ-96 board.(2020.06 - now)
-  More information at [code here](https://github.com/mengde-1997/MVP)
+  More information at [https://github.com/mengde-1997/MVP](https://github.com/mengde-1997/MVP)
 
 ## Language & Skills
 
