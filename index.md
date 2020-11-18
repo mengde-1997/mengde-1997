@@ -20,7 +20,6 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 * 09/2019-06/2021 Hong Kong University(top 50)<br />
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br /> 
-  Dissertation: Research on Hybrid Energy Storage of Photovoltaic Microgrid Based on Battery and Supercapacitor <br />
   Project: AI-CNN Accelerator Design based on PYNQ board<br />
   
 ## Research Experience
