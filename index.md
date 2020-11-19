@@ -8,7 +8,7 @@ I'm MENG DE and a master student of HongKong University majored in Electrical an
 My research interests mainly include digital IC design,FPGA,smart sensors and their AI and Biological application.
 
 ## Educational Background
-* 09/2015-06/2019  Nanjing Normal University(211)<br />
+* 2015/09-2019/06  Nanjing Normal University(211)<br />
   Bachelor's Degree<br />
   Major:Electrical and Electronic Engineering<br />
   GPA: 4.11/5.0    Rank: 1/93<br />
@@ -17,7 +17,7 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
   National Scholarship Owner in 2018(Certificate Number:2018 48128)<br />
   Advanced Individual in Scientific Research and Innovation of NNU in 2018<br />
   Excellent Graduates of NNU in 2019
-* 09/2019-06/2021 Hong Kong University(top 50)<br />
+* 2019/08-2020/12 Hong Kong University(top 50)<br />
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br /> 
   Project: AI-CNN Accelerator Design based on PYNQ board<br />
