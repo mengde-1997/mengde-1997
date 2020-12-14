@@ -34,7 +34,7 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
   Role:leader<br />
 * 2018/12 《Collaborative Filtering Algorithm Based on Trusted Similarity》accepted by ICSIP<br />
 * 2019/09-2020/06  Study on optimization algorithm at HongKong University<br />
-* 2020/06-now  Serve as an exchange student at Cihlab of Fudan University<br />
+* 2020/06-now  Serve as an exchange student at Cihlab of Fudan University(supervised by Professor Chen Chixiao)<br />
   Join in the project of designing an AI accelerator based on PYNQ-96<br />
  
 ## Project Experience 
