@@ -5,7 +5,7 @@ layout: default
 # Welcome to My Homepage !   [中文](./pub.md)
 
 I'm MENG DE and a master student of HongKong University majored in Electrical and Electronic Engineering.
-My research interests mainly include digital IC design,FPGA,smart sensors and their AI and Biological application.
+My research interests mainly include digital IC design,FPGA,smart sensors and their AI,IoT and Biological application.
 
 ## Educational Background
 * 2015/09-2019/06  Nanjing Normal University(211)<br />
@@ -51,8 +51,9 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 
 ## Core Courses
 
-[Core courses taken at NNU and HKU](./cxchen.md)
+[Core courses taken at NNU and HKU](./cxchen.md)<br />
 
-
+## Others
+During the exchange at Fudan University, I was responsible for operating the WeChat official account of Frontier Institute of Chip and System,Fudan University(芯片与系统前沿技术研究院"前沿芯闻"公众号专栏).Details can be found at [https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug](https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug)<br />
 
 
