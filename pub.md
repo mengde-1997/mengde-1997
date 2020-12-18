@@ -4,7 +4,7 @@ layout: default
 
 # 欢迎来到我的主页 !   
 我叫孟德，目前为香港大学电子工程专业研究生。
-我的研究兴趣主要包括数字集成电路设计、FPGA、智能硬件及其在人工智能与生物医疗领域的应用。
+我的研究兴趣主要包括数字集成电路设计、FPGA、智能硬件及其在人工智能、物联网与生物医疗领域的应用。
 
 ## 教育背景
 * 2015/09-2019/06  南京师范大学(211) 学士<br />
@@ -30,8 +30,8 @@ layout: default
   省级大学生创新训练项目<br />
   项目主持人<br />
 * 2018/12 《Collaborative Filtering Algorithm Based on Trusted Similarity》accepted by ICSIP<br />
-* 2019/09-2020/06 在香港大学侯云鹤课题组从事算法优化方面的研究<br />
-* 2020/06-至今 复旦大学Cihlab交流<br />
+* 2019/09-2020/06 在香港大学侯云鹤教授课题组从事算法优化方面的研究<br />
+* 2020/06-至今 复旦大学Cihlab交流 陈迟晓教授 <br />
   参与基于PYNQ-96的深度学习加速器设计<br />
  
 ## 语言 & 技能
@@ -58,6 +58,9 @@ At HKU<br />
 * ELEC 6008 模式识别与机器学习
 * IELM 7016 工程经济学
 
+## 其他
+在复旦大学交换期间负责芯片与系统前沿研究院“前沿芯闻”系列
+公众号撰写：[https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug](https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug)
 
 [返回主页](./)
 
