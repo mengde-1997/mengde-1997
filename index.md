@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Homepage !   [中文](./pub.md)
 
-I'm MENG DE and a master student of HongKong University majored in Electrical and Electronic Engineering.
+I'm MENG DE and a Master student of HongKong University majored in Electrical and Electronic Engineering.
 My research interests mainly include digital IC design,FPGA,smart sensors and their AI,IoT and Biological application.
 
 ## Educational Background
@@ -46,8 +46,8 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 
 * IELTS:6.5<br />
 * CET-6:560<br />
-* Basic knowledge of Linux&unix,Git,Tex,Vivado,Makedown<br />
-* Programming:Python,Verilog&Systemverilog,C,Matlab<br />
+* Programming:Verilog&Systemverilog,Python,C,Git,Linux,Tex<br />
+* EDA:Vivado(Xilinx)
 
 ## Core Courses
 
@@ -55,5 +55,6 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
 
 ## Others
 During the exchange at Fudan University, I was responsible for operating the WeChat official account of Frontier Institute of Chip and System,Fudan University(芯片与系统前沿技术研究院"前沿芯闻"公众号专栏).Details can be found at [https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug](https://mp.weixin.qq.com/s/kP_NCgU9Z_nM1QeCDEgkug)<br />
+My homepage:[https://mengde-1997.github.io/mengde-1997/](https://mengde-1997.github.io/mengde-1997/)
 
 
