@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Homepage !   [中文](./pub.md)
 
-I'm MENG DE and a Master student of HongKong University majored in Electrical and Electronic Engineering.
+I'm MENG DE,a master student of HongKong University majored in Electrical and Electronic Engineering.
 My research interests mainly include digital IC design,FPGA,smart sensors and their AI,IoT and Biological application.
 
 ## Educational Background
@@ -21,6 +21,9 @@ My research interests mainly include digital IC design,FPGA,smart sensors and th
   Master's Degree<br />
   Major:Electrical and Electronic Engineering<br /> 
   Project: AI-CNN Accelerator Design based on PYNQ board<br />
+  2020/06-now Fudan University(top 50)<br />
+  Exchange student at Cihlab,supervised by Professor Chen Chixiao<br />
+  
   
 ## Research Experience
 * 2016/05    9th National"Certification Cup" Mathematical Modeling Contest<br />
