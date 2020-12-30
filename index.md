@@ -50,7 +50,7 @@ My research interests mainly include computer architecture,digital IC design,FPG
 * IELTS:6.5<br />
 * CET-6:560<br />
 * Programming:Verilog&Systemverilog,Python,C,Git,Linux,Tex<br />
-* EDA:Vivado(Xilinx)
+* EDA:Vivado(Xilinx),VCS+Verdi(Synopsys)
 
 ## Core Courses
 
