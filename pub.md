@@ -47,7 +47,7 @@ layout: default
 * 雅思：6.5<br />
 * 六级：560<br />
 * Programming: Verilog & SystemVerilog, Python, C, Git, Linux, Tex<br />
-* EDA：Vivado(Xilinx)
+* EDA：Vivado(Xilinx),VCS+Verdi(Synopsys)
 
 ## 核心课程
 At NNU<br />
